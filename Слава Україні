@@ -1,0 +1,132 @@
+# SLAVA_UKREINE<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>СЛАВА УКРАЇНІ | Офіційний сайт</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(to bottom, #0057b7, #ffd700);
+      color: #fff;
+    }
+    header {
+      padding: 20px;
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+    header .logo-text {
+      font-size: 3rem;
+      font-weight: bold;
+      color: #ffd700;
+      margin-top: 10px;
+      text-shadow: 2px 2px #000;
+    }
+    .hero {
+      text-align: center;
+      padding: 20px;
+    }
+    .hero iframe {
+      width: 90%;
+      max-width: 600px;
+      border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.3);
+    }
+    .subscribe {
+      margin: 20px;
+      text-align: center;
+    }
+    .subscribe a {
+      background-color: #ff0000;
+      color: white;
+      padding: 12px 24px;
+      font-size: 1.2rem;
+      border-radius: 30px;
+      text-decoration: none;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+    }
+    .about, .gallery, .contact {
+      background-color: rgba(0, 0, 0, 0.3);
+      margin: 30px auto;
+      padding: 20px;
+      max-width: 800px;
+      border-radius: 20px;
+    }
+    .about h2, .gallery h2, .contact h2 {
+      text-align: center;
+    }
+    .gallery iframe {
+      margin: 10px;
+      border-radius: 12px;
+    }
+    .contact a {
+      color: #ffd700;
+      font-weight: bold;
+    }
+    .donate {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .donate a {
+      background-color: #32CD32;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 30px;
+      text-decoration: none;
+      font-size: 1.2rem;
+      box-shadow: 0 5px 10px rgba(0,0,0,0.3);
+    }
+    .donate p {
+      margin-bottom: 10px;
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: rgba(0,0,0,0.4);
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo-text">СЛАВА УКРАЇНІ</div>
+    <p>Офіційний сайт YouTube-каналу</p>
+  </header>
+
+  <section class="hero">
+    <iframe src="https://www.youtube.com/embed/N3yP1DWZnPA" frameborder="0" allowfullscreen></iframe>
+  </section>
+
+  <section class="subscribe">
+    <a href="https://youtube.com/channel/UC8mM6cbtWvAw3jZ57vp9Lfw" target="_blank">ПІДПИСАТИСЬ НА YOUTUBE</a>
+  </section>
+
+  <section class="about">
+    <h2>Про канал</h2>
+    <p>Канал "Слава Україні" створений для натхнення, поширення правди про героїзм українського народу, підтримки наших захисників і пошани до історії. Короткі відео, пісні, звернення і патріотичний дух — усе тут.</p>
+  </section>
+
+  <section class="gallery">
+    <h2>Останні відео</h2>
+    <iframe width="300" height="180" src="https://www.youtube.com/embed/videoseries?list=UU8mM6cbtWvAw3jZ57vp9Lfw" frameborder="0" allowfullscreen></iframe>
+    <iframe width="300" height="180" src="https://www.youtube.com/embed/N3yP1DWZnPA" frameborder="0" allowfullscreen></iframe>
+  </section>
+
+  <section class="contact">
+    <h2>Зв'язок / Підтримка</h2>
+    <p>Напиши нам у <a href="https://t.me/твій_telegram" target="_blank">Telegram</a> або підтримай наш проєкт.</p>
+  </section>
+
+  <section class="donate">
+    <p>Підтримайте мене — разом ми переможемо!</p>
+    <a href="https://send.monobank.ua/jar/9LU5ZmRY3a" target="_blank">ПІДТРИМАТИ ЧЕРЕЗ MONOBANK</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Слава Україні. Всі права захищено.</p>
+  </footer>
+</body>
+</html>

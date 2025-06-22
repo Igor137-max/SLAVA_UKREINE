@@ -1,1 +1,0 @@
-# SLAVA_UKREINE
